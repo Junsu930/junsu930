@@ -27,3 +27,5 @@
 ### ☘️ My GitHub
 ![junsu's github stats](https://github-readme-stats.vercel.app/api?username=junsu930&show_icons=true&locale=kr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsu930&hide_progress=true)](https://github.com/junsu930)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=e2b091&height=200&section=footer)
