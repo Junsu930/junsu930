@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=fef3d2&height=270&section=header&text=Hello-World&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=fef3d2&height=270&section=header&text=Welcome-To-My-Github&fontSize=50)
 
 # 🖥️ ReadMe 🖱️
 
@@ -30,4 +30,4 @@
 ![junsu's github stats](https://github-readme-stats.vercel.app/api?username=junsu930&show_icons=true&locale=)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsu930&hide_progress=true)](https://github.com/junsu930)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=fef3d2&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=fef3d2&height=200&section=footer)
