@@ -2,6 +2,7 @@
 
 # 🖥️ ReadMe 🖱️
 
+## 🧑‍🤝‍🧑Contact
 [![Velog](https://img.shields.io/badge/Velog-00A95C?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@junsu930)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Junsu930)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bobdylan0331@gmail.com)
